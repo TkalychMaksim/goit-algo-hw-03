@@ -15,4 +15,4 @@ def get_numbers_ticket(min_num, max_num, quantity):
     # Sorting set of numbers
     return sorted(unique_numbers)
 
-lottery_numbers = get_numbers_ticket(5, 55, 6)
+
